@@ -13,7 +13,7 @@
 
 **How to Play:**
 1. Download and extract the .zip file from the Releases section.
-2. Run `Safe_the_world_raghul.exe`.
+2. Run `Save_the_world_raghul.exe`.
 3. Enable your webcam and follow the on-screen instructions.
 4. **Use your hands to fight aliens—become Ben 10!**
 
