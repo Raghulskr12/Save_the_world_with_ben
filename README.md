@@ -54,6 +54,6 @@ I documented the entire process—**debugging chaos, wins, and lessons learned**
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Raghulskr12/Save_the_world_with_ben.git
+cd Raghulskr12/Save_the_world_with_ben.
 pip install -r requirements.txt
